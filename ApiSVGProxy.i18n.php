@@ -257,9 +257,10 @@ $messages['ksh'] = array(
 
 /** Cornish (Kernowek)
  * @author Kw-Moon
+ * @author Nrowe
  */
 $messages['kw'] = array(
-	'apisvgproxy-desc' => "Y whra proxya folednow SVG dhort tresorva restrednow (pell martesen) dhe'n tireth leel",
+	'apisvgproxy-desc' => "Y hwra proxya folednow SVG dhyworth tresorva restrednow (pell martesen) dhe'n tireth leel",
 );
 
 /** Luxembourgish (Lëtzebuergesch)
@@ -304,6 +305,13 @@ $messages['ms'] = array(
 	'apisvgproxy-desc' => 'Memproksi fail SVG daripada repositori fail (yang mungkin berjauhan) kepada domain setempat',
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Nghtwlkr
+ */
+$messages['nb'] = array(
+	'apisvgproxy-desc' => 'Sender SVG-filer via en mellomtjener fra et (muligens eksternt) fillager til det lokale domenet',
+);
+
 /** Nedersaksisch (Nedersaksisch)
  * @author Servien
  */
@@ -317,13 +325,6 @@ $messages['nds-nl'] = array(
  */
 $messages['nl'] = array(
 	'apisvgproxy-desc' => 'Geeft SVG-bestanden door vanaf een (mogelijk elders bestaande) bestandsrepository naar het lokale domein',
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Nghtwlkr
- */
-$messages['nb'] = array(
-	'apisvgproxy-desc' => 'Sender SVG-filer via en mellomtjener fra et (muligens eksternt) fillager til det lokale domenet',
 );
 
 /** Occitan (Occitan)
