@@ -29,7 +29,7 @@ $messages['ar'] = array(
 	'apisvgproxy-desc' => 'يُمرّر ملفات SVG من مستودع ملفات (يمكن أن يكون بعيدًا) إلى النطاق المحلي',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -50,28 +50,28 @@ $messages['be-tarask'] = array(
 	'apisvgproxy-desc' => 'Замяшчэньне SVG-файлаў са сховішча файлаў (магчыма выдаленага) на лякальным дамэне',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
 	'apisvgproxy-desc' => "Kas a ra restroù SVG adalek ur sanailh restroù (a-bell diouzh ret) war-du an domani lec'hel.",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
 	'apisvgproxy-desc' => 'Proksi SVG datoteke iz (možda udaljenog) repozitorijuma datoteka za lokalnu domenu',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Paucabot
  */
 $messages['ca'] = array(
 	'apisvgproxy-desc' => 'Fa de servidor intermediari de fitxers SVG per a dipòsits de fitxers (probablement remots) al domini local',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Mormegil
  */
 $messages['cs'] = array(
@@ -86,7 +86,7 @@ $messages['cy'] = array(
 	'apisvgproxy-desc' => "Yn dirprwyo ffeiliau SVG o ystorfa ffeiliau, sydd efallai'n bell, i'r parth lleol",
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Emilkris33
  */
 $messages['da'] = array(
@@ -122,7 +122,7 @@ $messages['eo'] = array(
 	'apisvgproxy-desc' => 'Prokuras SVG-dosierojn de (eble fora) dosierdeponejo al la loka domajno',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Pertile
  */
 $messages['es'] = array(
@@ -136,21 +136,21 @@ $messages['fa'] = array(
 	'apisvgproxy-desc' => 'پروکسی پرونده‌های SVG احتمالا از  پرونده کنترل از راه دور به دامنه محلی',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Str4nd
  */
 $messages['fi'] = array(
 	'apisvgproxy-desc' => 'Välittää SVG-tiedostot (mahdollisesti ulkoisesta) tiedostovarastosta paikalliselle verkkotunnukselle.',
 );
 
-/** French (Français)
+/** French (français)
  * @author IAlex
  */
 $messages['fr'] = array(
 	'apisvgproxy-desc' => 'Procure des fichiers SVG depuis un dépôt de fichiers (éventuellement à distance) dans le domaine local',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -178,7 +178,7 @@ $messages['he'] = array(
 	'apisvgproxy-desc' => 'תיווך קובצי SVG ממאגר (ספק מרוחק) של קבצים למתחם המקומי',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Tivek
  */
 $messages['hr'] = array(
@@ -192,14 +192,14 @@ $messages['hsb'] = array(
 	'apisvgproxy-desc' => 'Funguje jako proksy za SVG dataje mjez  datajowym repozitorijom (snano zdalenym) a lokalnej domenu',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
 	'apisvgproxy-desc' => 'SVG fájlok proxizása egy (feltehetőleg távoli) fájltárolóból a helyi tartományba',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -220,7 +220,7 @@ $messages['ig'] = array(
 	'apisvgproxy-desc' => 'Ihe íshí nke usòrò shı (o nweriki di ebe ntakiri) usòrò nke ebe ihe di ga ébé di nsó',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
@@ -255,7 +255,7 @@ $messages['ksh'] = array(
 	'apisvgproxy-desc' => 'Deiht Datteije em SVG Fommaat als ene <i lang="en">proxy</i>-ẞööver onger de eije Domain aanbeede.',
 );
 
-/** Cornish (Kernowek)
+/** Cornish (kernowek)
  * @author Kw-Moon
  * @author Nrowe
  */
@@ -277,7 +277,7 @@ $messages['li'] = array(
 	'apisvgproxy-desc' => "Guf SVG-bestenj door vanaaf 'n (meugelijk elders bestaonde) bestandjsrepository nao 't lokaal domein",
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Ignas693
  */
 $messages['lt'] = array(
@@ -291,7 +291,7 @@ $messages['mg'] = array(
 	'apisvgproxy-desc' => "Manome rakitra SVG avy ao amin'ny petra-drakitra mankao amin'ny vala an-toerana",
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -327,14 +327,14 @@ $messages['nl'] = array(
 	'apisvgproxy-desc' => 'Geeft SVG-bestanden door vanaf een (mogelijk elders bestaande) bestandsrepository naar het lokale domein',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
 	'apisvgproxy-desc' => 'Provesís de fichièrs SVG dempuèi un depaus de fichièrs (eventualament a distància) dins lo domeni local',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -349,56 +349,56 @@ $messages['pms'] = array(
 	'apisvgproxy-desc' => "A oten dj'archivi SVG da 'n depòsit (miraco leugn) d'archivi al domini local",
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
 	'apisvgproxy-desc' => 'Representa os ficheiros SVG de um repositório (possivelmente remoto) no domínio local',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Giro720
  */
 $messages['pt-br'] = array(
 	'apisvgproxy-desc' => 'Representa os ficheiros SVG de um repositório (possivelmente remoto) no domínio local',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
 	'apisvgproxy-desc' => "Le file d'u proxy SVG da 'nu (possibbele remote) archivije de file a 'u dominie locale",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
 	'apisvgproxy-desc' => 'Замещение SVG-файлов из хранилища файлов (возможно удаленного), на локальный домен',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
 	'apisvgproxy-desc' => 'Sprostredkuje súbory SVG z (možno vzdialeného) úložiska súborov do lokálnej domény',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
 	'apisvgproxy-desc' => 'Posreduje datoteke SVG iz (po možnosti) oddaljene hrambe datotek na lokalno domeno',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Charmed94
  */
 $messages['sr-ec'] = array(
 	'apisvgproxy-desc' => 'Посредници SVG датотека из (вероватно даљинске) датотеке на дељеном складишту у локалном домену',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'apisvgproxy-desc' => 'Posrednici SVG datoteka iz (verovatno daljinske) datoteke na deljenom skladištu u lokalnom domenu',
 );
@@ -410,7 +410,7 @@ $messages['su'] = array(
 	'apisvgproxy-desc' => 'Ngaproksi berkas SVG ti gudang (anu sigana paanggang) ka domain lokal',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Sertion
  */
 $messages['sv'] = array(
@@ -438,7 +438,7 @@ $messages['tr'] = array(
 	'apisvgproxy-desc' => 'Bir dosya deposundan (muhtemelen uzaktaki) yerel alana SVG dosyaları vekil eder',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Ytsukeng Fyvaprol
  */
 $messages['uk'] = array(
@@ -452,12 +452,12 @@ $messages['vi'] = array(
 	'apisvgproxy-desc' => 'Ủy nhiệm tập tin SVG từ kho tập tin (có thể từ xa) đến tên miền cục bộ',
 );
 
-/** Simplified Chinese (‪中文(简体)‬) */
+/** Simplified Chinese (‪中文（简体）‬) */
 $messages['zh-hans'] = array(
 	'apisvgproxy-desc' => '代理从 SVG文件（可能是远程）文件存放到本地域名',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Horacewai2
  * @author Mark85296341
  */
