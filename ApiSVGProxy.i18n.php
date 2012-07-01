@@ -43,7 +43,7 @@ $messages['ba'] = array(
 	'apisvgproxy-desc' => 'Бер файл һаҡлағысындағы SVG-файлдар (алыҫтағы һаҡлағыс та булырға мөмкин) локаль домендағы файлдарҙа үҙгәрәсәк.',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -101,7 +101,7 @@ $messages['de'] = array(
 	'apisvgproxy-desc' => 'Bietet SVG-Dateien als Proxy für ein möglicherweise entfernt liegendes Dateienrepositorium unter der eigenen Domain an.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -157,7 +157,7 @@ $messages['frp'] = array(
 	'apisvgproxy-desc' => 'Procure des fichiérs SVG dês un dèpôt de fichiérs (a l’ocasion a distance) dens lo domêno local.',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -185,7 +185,7 @@ $messages['hr'] = array(
 	'apisvgproxy-desc' => 'Posreduje SVG datoteke s (moguće udaljenog) poslužitelja na lokalnu domenu',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
