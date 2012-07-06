@@ -203,7 +203,7 @@ $messages['hu'] = array(
  * @author McDutchie
  */
 $messages['ia'] = array(
-	'apisvgproxy-desc' => 'Face un proxy in le dominio local pro files SVG ex un deposito de files (possibilemente remote)',
+	'apisvgproxy-desc' => 'Face un proxy in le dominio local pro files SVG ex un repositorio de files (possibilemente remote)',
 );
 
 /** Indonesian (Bahasa Indonesia)
