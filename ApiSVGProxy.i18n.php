@@ -36,7 +36,7 @@ $messages['ast'] = array(
 	'apisvgproxy-desc' => "Tresllada ficheros SVG d'un repositoriu de ficheros (posiblemente remotu) al dominiu llocal.",
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Comp1089
  */
 $messages['ba'] = array(
@@ -305,7 +305,7 @@ $messages['ms'] = array(
 	'apisvgproxy-desc' => 'Memproksi fail SVG daripada repositori fail (yang mungkin berjauhan) kepada domain setempat',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
