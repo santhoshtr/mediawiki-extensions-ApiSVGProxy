@@ -98,7 +98,7 @@ $messages['da'] = array(
  * @author Purodha
  */
 $messages['de'] = array(
-	'apisvgproxy-desc' => 'Bietet SVG-Dateien als Proxy für ein möglicherweise entfernt liegendes Dateienrepositorium unter der eigenen Domain an.',
+	'apisvgproxy-desc' => 'Bietet SVG-Dateien als Proxy für ein möglicherweise entfernt liegendes Dateienrepositorium unter der eigenen Domain an',
 );
 
 /** Lower Sorbian (dolnoserbski)
