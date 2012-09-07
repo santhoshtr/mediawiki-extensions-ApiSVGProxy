@@ -229,9 +229,10 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author Aotake
+ * @author Shirayuki
  */
 $messages['ja'] = array(
-	'apisvgproxy-desc' => 'SVGファイルを（リモート含む）ファイル・リポジトリからローカルのドメインにプロキシする',
+	'apisvgproxy-desc' => 'SVG ファイルを、(おそらくリモート) ファイル リポジトリからローカル ドメインにプロキシする',
 );
 
 /** Адыгэбзэ (Адыгэбзэ)
