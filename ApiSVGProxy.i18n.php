@@ -43,7 +43,7 @@ $messages['ba'] = array(
 	'apisvgproxy-desc' => 'Бер файл һаҡлағысындағы SVG-файлдар (алыҫтағы һаҡлағыс та булырға мөмкин) локаль домендағы файлдарҙа үҙгәрәсәк.',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -306,7 +306,7 @@ $messages['ms'] = array(
 	'apisvgproxy-desc' => 'Memproksi fail SVG daripada repositori fail (yang mungkin berjauhan) kepada domain setempat',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -392,14 +392,14 @@ $messages['sl'] = array(
 	'apisvgproxy-desc' => 'Posreduje datoteke SVG iz (po možnosti) oddaljene hrambe datotek na lokalno domeno',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Charmed94
  */
 $messages['sr-ec'] = array(
 	'apisvgproxy-desc' => 'Посредници SVG датотека из (вероватно даљинске) датотеке на дељеном складишту у локалном домену',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'apisvgproxy-desc' => 'Posrednici SVG datoteka iz (verovatno daljinske) datoteke na deljenom skladištu u lokalnom domenu',
 );
@@ -453,12 +453,12 @@ $messages['vi'] = array(
 	'apisvgproxy-desc' => 'Ủy nhiệm tập tin SVG từ kho tập tin (có thể từ xa) đến tên miền cục bộ',
 );
 
-/** Simplified Chinese (‪中文（简体）‬) */
+/** Simplified Chinese (中文（简体）‎) */
 $messages['zh-hans'] = array(
 	'apisvgproxy-desc' => '代理从 SVG文件（可能是远程）文件存放到本地域名',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Horacewai2
  * @author Mark85296341
  */
