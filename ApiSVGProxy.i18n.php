@@ -399,7 +399,8 @@ $messages['sr-ec'] = array(
 	'apisvgproxy-desc' => 'Посредници SVG датотека из (вероватно даљинске) датотеке на дељеном складишту у локалном домену',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'apisvgproxy-desc' => 'Posrednici SVG datoteka iz (verovatno daljinske) datoteke na deljenom skladištu u lokalnom domenu',
 );
@@ -453,7 +454,8 @@ $messages['vi'] = array(
 	'apisvgproxy-desc' => 'Ủy nhiệm tập tin SVG từ kho tập tin (có thể từ xa) đến tên miền cục bộ',
 );
 
-/** Simplified Chinese (中文（简体）‎) */
+/** Simplified Chinese (中文（简体）‎)
+ */
 $messages['zh-hans'] = array(
 	'apisvgproxy-desc' => '代理从 SVG文件（可能是远程）文件存放到本地域名',
 );
@@ -465,4 +467,3 @@ $messages['zh-hans'] = array(
 $messages['zh-hant'] = array(
 	'apisvgproxy-desc' => '從 SVG 檔案代理（可能是遠端）檔案存放到本地域名',
 );
-
