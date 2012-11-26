@@ -36,6 +36,13 @@ $messages['ast'] = array(
 	'apisvgproxy-desc' => "Tresllada ficheros SVG d'un repositoriu de ficheros (posiblemente remotu) al dominiu llocal.",
 );
 
+/** تورکجه (تورکجه)
+ * @author Amir a57
+ */
+$messages['azb'] = array(
+	'apisvgproxy-desc' => 'بیر فایل آنبارین‌دان (احتیمالا اوزاق‌داکی) یئرلی ساحه‌یه سوگ فایل‌لاری وکیل ائدر',
+);
+
 /** Bashkir (башҡортса)
  * @author Comp1089
  */
