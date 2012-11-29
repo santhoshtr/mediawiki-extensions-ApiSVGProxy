@@ -36,7 +36,7 @@ $messages['ast'] = array(
 	'apisvgproxy-desc' => "Tresllada ficheros SVG d'un repositoriu de ficheros (posiblemente remotu) al dominiu llocal.",
 );
 
-/** تورکجه (تورکجه)
+/** South Azerbaijani (تورکجه)
  * @author Amir a57
  */
 $messages['azb'] = array(
