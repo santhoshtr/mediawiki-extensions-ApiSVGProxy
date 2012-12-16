@@ -16,10 +16,11 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  * @author Umherirrender
  */
 $messages['qqq'] = array(
-	'apisvgproxy-desc' => '{{desc}}',
+	'apisvgproxy-desc' => '{{desc|name=Api SVG Proxy|url=http://www.mediawiki.org/wiki/Extension:ApiSVGProxy}}',
 );
 
 /** Arabic (العربية)
