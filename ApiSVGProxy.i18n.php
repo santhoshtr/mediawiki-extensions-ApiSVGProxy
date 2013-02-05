@@ -252,9 +252,10 @@ $messages['kbd-cyrl'] = array(
 
 /** Korean (한국어)
  * @author Kwj2772
+ * @author 아라
  */
 $messages['ko'] = array(
-	'apisvgproxy-desc' => '(원격) 파일 저장소에서 로컬 도메인으로 SVG 파일을 프록시 전송',
+	'apisvgproxy-desc' => '(원격) 파일 저장소에서 로컬 도메인으로 SVG 파일을 프록시 전송합니다',
 );
 
 /** Colognian (Ripoarisch)
