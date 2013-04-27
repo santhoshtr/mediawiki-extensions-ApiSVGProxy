@@ -51,6 +51,13 @@ $messages['ba'] = array(
 	'apisvgproxy-desc' => 'Бер файл һаҡлағысындағы SVG-файлдар (алыҫтағы һаҡлағыс та булырға мөмкин) локаль домендағы файлдарҙа үҙгәрәсәк.',
 );
 
+/** Bikol Central (Bikol Central)
+ * @author Geopoet
+ */
+$messages['bcl'] = array(
+	'apisvgproxy-desc' => 'Minaproksi kan SVG na mga sagunson gikan sa sarong (posibleng harayoon) na repositoryo nin sagunson pasiring sa lokal na kinasakupan',
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  */
