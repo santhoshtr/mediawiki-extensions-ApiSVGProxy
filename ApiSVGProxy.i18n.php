@@ -322,14 +322,14 @@ $messages['ms'] = array(
 	'apisvgproxy-desc' => 'Memproksi fail SVG daripada repositori fail (yang mungkin berjauhan) kepada domain setempat',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
 	'apisvgproxy-desc' => 'Sender SVG-filer via en mellomtjener fra et (muligens eksternt) fillager til det lokale domenet',
 );
 
-/** Nedersaksies (Nedersaksies)
+/** Low Saxon (Netherlands) (Nedersaksies)
  * @author Servien
  */
 $messages['nds-nl'] = array(
